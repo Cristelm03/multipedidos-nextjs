@@ -1,3 +1,4 @@
+//Componente reutilizable para las tablas
 import React from "react";
 import { Table, TableHead, TableBody, TableRow, TableCell, Paper, TableContainer } from "@mui/material";
 

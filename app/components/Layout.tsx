@@ -1,3 +1,4 @@
+//Barra de navegacion componente reutilizable
 import React, { ReactNode } from "react";
 import { AppBar, Toolbar, Typography, Drawer, List, ListItemButton, ListItemText } from "@mui/material";
 import Link from "next/link";
